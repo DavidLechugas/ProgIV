@@ -1,0 +1,3 @@
+SEO = pocicionamiento web o tag con pero semantico
+
+target= es lo que indica hacia donde se abre un enlace

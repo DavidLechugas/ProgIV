@@ -1,0 +1,10 @@
+$ git clone (link del repositorio)
+$ git remote -v (funciona para saber en que repositorio estoy ingresando)
+$ git pull
+$ git add .
+$ git commit -m " texto " (mensaje de lo que deseio hacer )
+
+
+1 clonamos
+2 verificamos con git status
+3 
